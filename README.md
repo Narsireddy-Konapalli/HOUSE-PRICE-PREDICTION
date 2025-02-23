@@ -5,7 +5,7 @@
 
 ##  Live Demo
  **Check out the deployed model on Hugging Face Spaces:**  
- [House Price Prediction - Hugging Face](https://huggingface.co/spaces/your-username/house-price-prediction)
+ [House Price Prediction - Hugging Face](https://huggingface.co/spaces/narsireddy/House-Price-Predictor)
 
 ---
 
