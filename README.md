@@ -72,17 +72,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📁 Project Structure
-
-```
-.
-├── data/                        # Dataset
-├── models/                      # Saved model files
-├── app.py                       # Streamlit app
-├── train_model.py               # Model training script
-├── requirements.txt             # Dependencies
-├── README.md                    # Project documentation
-```
 
 ## 🌟 Contributing
 
