@@ -73,10 +73,6 @@ streamlit run app.py
 ```
 
 
-## 🌟 Contributing
-
-Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
-
 ## 📧 Contact
 
 For any inquiries, please reach out via:
