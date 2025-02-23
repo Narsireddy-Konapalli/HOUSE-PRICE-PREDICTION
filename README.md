@@ -52,7 +52,7 @@ A user-friendly **Streamlit** web application was built to allow users to input 
 
 The model and web app have been deployed on **Hugging Face Spaces** for public access:
 
-👉 [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Narsireddy-Konapalli/house-price-prediction)
+👉 [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/narsireddy/House-Price-Predictor)
 
 ## 📦 Installation
 
